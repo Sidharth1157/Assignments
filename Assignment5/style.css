@@ -1,0 +1,31 @@
+.card{
+    margin-top: 15px;
+
+}
+
+
+.Para1{
+    margin-top: 15px;
+    background-color: lightgrey;
+    padding:15px;
+
+}
+
+.Para2{
+    margin-top: 15px;
+    background-color: lightgrey;
+    padding:15px;
+
+}
+
+.Para3{
+    margin-top: 15px;
+    background-color: lightgrey;
+    padding:15px;
+
+}
+
+/* .Para2 .rows div{
+    border:1px solid black;
+    height:50px;
+} */
